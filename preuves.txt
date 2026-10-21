@@ -1,0 +1,20 @@
+Cas Awa avec budget 50000 :
+> node .\depenses.js
+> À compléter avec la sortie réelle : total 38300, reste 11700, true
+
+PS C:\Users\DELL\Documents\Depart> node depenses.js
+Rapport de dépenses à compléter pour Awa.
+Total des dépenses : 38300 FCFA.
+Budget restant : 11700 FCFA.
+Budget respecté : Oui.
+ 
+
+Variation budget 30000 :
+> node .\depenses.js
+> À compléter avec la sortie réelle : reste -8300, false
+
+PS C:\Users\DELL\Documents\depart> node depenses.js
+Rapport de dépenses à compléter pour Awa.
+Total des dépenses : 38300 FCFA.
+Budget restant : -8300 FCFA.
+Budget respecté : Non.
