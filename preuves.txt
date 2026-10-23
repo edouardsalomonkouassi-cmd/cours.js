@@ -1,0 +1,19 @@
+PS C:\Users\DELL\Documents\recette-cinema> node partie1.js
+11 ans, l'individu peut acheter un billet de 1500 FCFA
+12 ans, l'individu peut acheter un billet de 1500 FCFA
+13 ans, l'individu peut acheter un billet de 1500 FCFA
+14 ans, l'individu peut acheter un billet de 1500 FCFA
+15 ans, l'individu peut acheter un billet de 1500 FCFA
+16 ans, l'individu peut acheter un billet de 2500 FCFA
+17 ans, l'individu peut acheter un billet de 2500 FCFA
+18 ans, l'individu peut acheter un billet de 2500 FCFA
+19 ans, l'individu peut acheter un billet de 2500 FCFA
+20 ans, l'individu peut acheter un billet de 2500 FCFA
+Recette totale : 20000 FCFA
+Nombre de billets vendus pour les moins de 16 ans : 5
+Nombre de billets vendus pour les plus de 16 ans : 5
+PS C:\Users\DELL\Documents\recette-cinema> node partie2.js
+18 ans , l'individu beneficie d'une reduction à 2000 FCFA
+19 ans , l'individu beneficie d'une reduction à 2000 FCFA
+20 ans , l'individu beneficie d'une reduction à 2000 FCFA
+Recette totale : 18500 FCFA
